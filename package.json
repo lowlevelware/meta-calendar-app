@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
+  "homepage": "https://lowlevelware.github.io/meta-calendar-app",
   "main": "src/index.tsx",
   "dependencies": {
     "date-fns": "2.16.1",
