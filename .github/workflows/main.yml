@@ -3,8 +3,8 @@ name: Deploy React Application
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  # pull_request:
+  #  branches: [ main ]
 
 jobs:
   build_publish:
