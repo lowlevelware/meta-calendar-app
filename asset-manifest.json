@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/meta-calendar-app/static/css/main.e0f0b3f6.chunk.css",
-    "main.js": "/meta-calendar-app/static/js/main.aeb03522.chunk.js",
-    "main.js.map": "/meta-calendar-app/static/js/main.aeb03522.chunk.js.map",
-    "runtime-main.js": "/meta-calendar-app/static/js/runtime-main.de2449b6.js",
-    "runtime-main.js.map": "/meta-calendar-app/static/js/runtime-main.de2449b6.js.map",
-    "static/js/2.0ff2f217.chunk.js": "/meta-calendar-app/static/js/2.0ff2f217.chunk.js",
-    "static/js/2.0ff2f217.chunk.js.map": "/meta-calendar-app/static/js/2.0ff2f217.chunk.js.map",
+    "main.css": "/meta-calendar-app/static/css/main.83089601.css",
+    "main.js": "/meta-calendar-app/static/js/main.a991a258.js",
     "index.html": "/meta-calendar-app/index.html",
-    "static/css/main.e0f0b3f6.chunk.css.map": "/meta-calendar-app/static/css/main.e0f0b3f6.chunk.css.map",
-    "static/js/2.0ff2f217.chunk.js.LICENSE.txt": "/meta-calendar-app/static/js/2.0ff2f217.chunk.js.LICENSE.txt"
+    "main.83089601.css.map": "/meta-calendar-app/static/css/main.83089601.css.map",
+    "main.a991a258.js.map": "/meta-calendar-app/static/js/main.a991a258.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.de2449b6.js",
-    "static/js/2.0ff2f217.chunk.js",
-    "static/css/main.e0f0b3f6.chunk.css",
-    "static/js/main.aeb03522.chunk.js"
+    "static/css/main.83089601.css",
+    "static/js/main.a991a258.js"
   ]
 }
